@@ -1,0 +1,6 @@
+This is a test text file for the CTF Agent Stage 2 tests.
+It contains a fake test flag: flag{stage2_test_only}
+The flag above is for testing purposes only and is not a real challenge flag.
+
+Here is some additional text content for search and read tests.
+Multiple lines help verify line-number reporting in search results.
